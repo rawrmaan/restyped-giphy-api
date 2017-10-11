@@ -1,0 +1,20 @@
+{
+  "name": "restyped-giphy-api",
+  "version": "1.0.0",
+  "description": "RESTyped typings for Giphy's REST API",
+  "main": "index.ts",
+  "types": "giphy-api.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawrmaan/restyped-giphy-api.git"
+  },
+  "author": "Arman Dezfuli-Arjomandi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rawrmaan/restyped-giphy-api/issues"
+  },
+  "homepage": "https://github.com/rawrmaan/restyped-giphy-api#readme"
+}
