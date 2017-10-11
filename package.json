@@ -1,6 +1,6 @@
 {
   "name": "restyped-giphy-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RESTyped typings for Giphy's REST API",
   "main": "index.ts",
   "types": "giphy-api.d.ts",
