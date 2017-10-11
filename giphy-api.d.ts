@@ -263,7 +263,7 @@ export interface GiphyAPI {
         s: string
       }
       response: {
-        data: GIFObject[]
+        data: GIFObject
         meta: MetaObject
       }
     }
@@ -354,7 +354,7 @@ export interface GiphyAPI {
         s: string
       }
       response: {
-        data: GIFObject[]
+        data: GIFObject
         meta: MetaObject
       }
     }
