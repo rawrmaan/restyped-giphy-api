@@ -30,7 +30,3 @@ client.request({
   return res.data.data[0].images.fixed_height.url
 })
 ```
-
-## Popular APIs to try out
-
-- Giphy API: [`restyped-giphy-api`](https://github.com/rawrmaan/restyped-giphy-api)
