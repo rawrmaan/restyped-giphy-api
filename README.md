@@ -8,7 +8,9 @@ Quickly and easily use the wonderful Giphy API in TypeScript with end-to-end typ
 
 ## How to use it
 
-Use a REST client that supports <a href="https://github.com/rawrmaan/restyped">RESTyped</a>, like <a href="https://github.com/rawrmaan/restyped-axios">`restyped-axios`</a>.
+`npm install restyped-giphy-api`
+
+Then use a REST client that supports <a href="https://github.com/rawrmaan/restyped">RESTyped</a>, like <a href="https://github.com/rawrmaan/restyped-axios">`restyped-axios`</a>.
 
 ## Example
 
