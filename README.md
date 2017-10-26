@@ -4,7 +4,7 @@
 
 ## RESTyped typings for the Giphy API
 
-Quickly and easily use the wonderful Giphy API in TypeScript with end-to-end typing!
+Quickly and easily use the wonderful Giphy API in TypeScript with type checking for URL endpoints and query params!
 
 ## How to use it
 
